@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+qdrant-client
+python-dotenv
+cohere
+requests
+trafilatura
+openai
+openai-agents
+python-env
